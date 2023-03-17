@@ -1,4 +1,4 @@
-# :transgender_flag: red1bluelost - _Micah Weston_ - (they/them/theirs) :rainbow_flag: 
+# :transgender_flag: red1bluelost - _Micah Weston_ - (they/she) :rainbow_flag: 
 
 Compilers, Computer Architecture - C++, Rust, Haskell
 
