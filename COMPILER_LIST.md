@@ -69,6 +69,10 @@ Experimental successor to C++ that aims for high interoperability.
 
 ## Swift
 
+## Borgo
+
+https://github.com/borgo-lang
+
 # Functional Languages
 ## Haskell
 ### ghc
