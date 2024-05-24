@@ -32,11 +32,15 @@ with Apple development before Swift.
 
 ### gcc
 
-### tinycc (only C)
-
 ### msvc
 
 ### circle
+
+### tinycc (only C)
+
+### nwcc (only C)
+
+https://nwcc.sourceforge.net/index.html
 
 ## Zig
 Minimal language known for allocator awareness and avoiding implicit
