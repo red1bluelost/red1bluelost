@@ -42,6 +42,12 @@ with Apple development before Swift.
 
 https://nwcc.sourceforge.net/index.html
 
+### CMOC (only C)
+
+C compiler for 6809
+
+http://sarrazip.com/dev/cmoc.html
+
 ## Zig
 Minimal language known for allocator awareness and avoiding implicit
 abstractions.
