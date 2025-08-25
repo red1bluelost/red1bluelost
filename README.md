@@ -1,4 +1,6 @@
-# :transgender_flag: red1bluelost - _Micah Weston_ - (they/she) :rainbow_flag: 
+# _Micah Weston_ - red1bluelost - (they/she)
+
+Compiler Engineer at Microsoft working on AI Frameworks
 
 Compilers, Computer Architecture - C++, Rust, Haskell
 
